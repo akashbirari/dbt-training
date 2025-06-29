@@ -1,2 +1,3 @@
-select *
-from RAW.GLOBALMART.ORDERS
+select * 
+from RAW.GLOBALMART.ORDERS 
+where orderid > 5
